@@ -12,4 +12,4 @@ React · Next.js · TypeScript · Tailwind CSS · Node.js · Supabase · FastAPI
 - 🍱 [Indian Meal Planner](https://diet-chart-gen-ts.vercel.app) — React + Zustand + Tailwind, personalized Indian diet generator  
 
 ## 🌐 Connect with Me
-[LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/amanpreet-codes)) | [Portfolio](https://amanpreet-portfolio.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/amanpreet-codes) | [Portfolio](https://amanpreet-portfolio.vercel.app)
