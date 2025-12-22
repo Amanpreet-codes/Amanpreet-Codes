@@ -1,4 +1,5 @@
 # 💫 About Me:
+Full-Stack Developer | React, Next.js, TypeScript | Open to Intern & Junior Roles. <br>
 🔭 I’m currently working on Gitstat, a tracker and gamifyication app for github stats.<br>👯 I’m looking to collaborate on internships in full stack, frontend, or backend development.<br>
 
 ## 🌐 Socials:
