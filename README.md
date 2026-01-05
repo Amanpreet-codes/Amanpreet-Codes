@@ -1,6 +1,7 @@
 # 💫 About Me:
-Full-Stack Developer | React, Next.js, TypeScript | Open to Intern & Junior Roles. <br>
-🔭 I’m currently working on Gitstat, a tracker and gamifyication app for github stats.<br>👯 I’m looking to collaborate on internships in full stack, frontend, or backend development.<br>
+I’m a final-year Computer Science student who enjoys building full-stack web applications that are fast, usable, and don’t fall apart in production. I mainly work with React and Next.js on the frontend, backend APIs for business logic, and relational and NoSQL databases. I care a lot about clean structure, performance, and writing code that future-me won’t hate.
+
+I’ve shipped projects end to end, from figuring out vague requirements to deploying and optimizing for real users. I like taking ownership, learning by doing, and working in environments where things move quickly and impact is visible. Currently exploring opportunities to grow as a full-stack engineer while building meaningful products.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amanpreet-codes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singh.amanpreet0131@gmail.com) 
